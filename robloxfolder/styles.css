@@ -1,0 +1,41 @@
+/* styles.css */
+
+/* Reset default styles */
+body, h1, h2, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set background color and font for body */
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+h1 {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+/* Style the container */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the song list */
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+/* Add more styles as needed */
